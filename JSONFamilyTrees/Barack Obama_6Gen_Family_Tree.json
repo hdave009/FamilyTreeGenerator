@@ -1,0 +1,416 @@
+{
+  "father": {
+    "father": {
+      "father": {
+        "father": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        },
+        "person": "Omar Okech",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Omar Okech",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Sarah Onyango Obama",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": null,
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      },
+      "person": "Hussein Onyango Obama",
+      "generation": 3,
+      "mother": {
+        "father": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        },
+        "person": "Nyaoke Obama",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        }
+      }
+    },
+    "person": "Barack Obama Sr.",
+    "generation": 2,
+    "mother": {
+      "father": {
+        "father": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        },
+        "person": "Njango Nyanjoga",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        }
+      },
+      "person": "Habiba Akumu Obama",
+      "generation": 3,
+      "mother": {
+        "father": {
+          "father": "None",
+          "person": "None",
+          "generation": "None",
+          "mother": "None"
+        },
+        "person": null,
+        "generation": 4,
+        "mother": {
+          "father": "None",
+          "person": "None",
+          "generation": "None",
+          "mother": "None"
+        }
+      }
+    }
+  },
+  "person": "Barack Obama",
+  "generation": 1,
+  "mother": {
+    "father": {
+      "father": {
+        "father": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        },
+        "person": "Ralph Waldo Emerson Dunham, Sr.",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Falmouth Kearney",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Mary Ann Kearney",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Charlotte Holloway",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      },
+      "person": "Stanley Armour Dunham",
+      "generation": 3,
+      "mother": {
+        "father": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "George W. Armour",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Harry Ellington Armour",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Nancy Ann Childress",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        },
+        "person": "Ruth Lucille Armour",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": null,
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Gabriella Clark",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": null,
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      }
+    },
+    "person": "Stanley Ann Dunham",
+    "generation": 2,
+    "mother": {
+      "father": {
+        "father": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Rolla Charles Payne",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Charles T. Payne",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": null,
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        },
+        "person": "Rolla Charles Payne",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Robert Wolfley",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Della Wolfley",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": null,
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      },
+      "person": "Madelyn Dunham",
+      "generation": 3,
+      "mother": {
+        "father": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        },
+        "person": "Leona McCurry Payne",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          },
+          "person": null,
+          "generation": 5,
+          "mother": {
+            "father": "None",
+            "person": "None",
+            "generation": "None",
+            "mother": "None"
+          }
+        }
+      }
+    }
+  }
+}

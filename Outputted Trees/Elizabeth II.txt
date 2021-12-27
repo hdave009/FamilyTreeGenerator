@@ -1,0 +1,61 @@
+Gen: 6, Name: Ernest I, Duke of Saxe-Coburg and Gotha
+Gen: 5, Name: Albert, Prince Consort
+Gen: 6, Name: Princess Louise of Saxe Gotha Altenburg
+Gen: 4, Name: Edward VII
+Gen: 6, Name: Prince Edward, Duke of Kent and Strathearn
+Gen: 5, Name: Queen Victoria
+Gen: 6, Name: Princess Victoria of Saxe-Coburg-Saalfeld
+Gen: 3, Name: George V
+Gen: 6, Name: Frederick William, Duke of Schleswig-Holstein-Sonderburg-Glücksburg
+Gen: 5, Name: Christian IX of Denmark
+Gen: 6, Name: Princess Louise Caroline of Hesse-Kassel
+Gen: 4, Name: Alexandra of Denmark
+Gen: 6, Name: Prince William of Hesse-Kassel
+Gen: 5, Name: Louise of Hesse-Kassel
+Gen: 6, Name: Princess Charlotte of Denmark
+Gen: 2, Name: George VI
+Gen: 6, Name: Duke Louis of Württemberg
+Gen: 5, Name: Duke Alexander of Württemberg
+Gen: 6, Name: Princess Henriette of Nassau-Weilburg
+Gen: 4, Name: Francis, Duke of Teck
+Gen: 6, Name: Count Ladislas Rhédey von Kis-Rhéde
+Gen: 5, Name: Countess Claudine Rhédey von Kis-Rhéde
+Gen: 6, Name: Agnes Baronin von Inczedy de Nagy-Varad
+Gen: 3, Name: Mary of Teck
+Gen: 6, Name: George III
+Gen: 5, Name: Prince Adolphus, Duke of Cambridge
+Gen: 6, Name: Charlotte of Mecklenburg-Strelitz
+Gen: 4, Name: Princess Mary Adelaide of Cambridge
+Gen: 6, Name: Prince Frederick of Hesse-Kassel
+Gen: 5, Name: Princess Augusta of Hesse-Kassel
+Gen: 6, Name: Princess Caroline of Nassau-Usingen
+Gen: 1, Name: Elizabeth II
+Gen: 6, Name: Thomas Lyon-Bowes, 11th Earl of Strathmore and Kinghorne
+Gen: 5, Name: Thomas Lyon-Bowes, Lord Glamis
+Gen: 6, Name: None
+Gen: 4, Name: Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne
+Gen: 6, Name: Joseph Valentine Grimstead
+Gen: 5, Name: Charlotte Lyon-Bowes, Lady Glamis
+Gen: 6, Name: Charlotte Walsh
+Gen: 3, Name: Claude Bowes-Lyon, 14th Earl of Strathmore and Kinghorne
+Gen: 6, Name: None
+Gen: 5, Name: Oswald Smith
+Gen: 6, Name: None
+Gen: 4, Name: Frances Bowes-Lyon, Countess of Strathmore and Kinghorne
+Gen: 6, Name: Robert Hodgson
+Gen: 5, Name: Henrietta Mildred Hodgson
+Gen: 6, Name: None
+Gen: 2, Name: Queen Elizabeth The Queen Mother
+Gen: 5, Name: None
+Gen: 4, Name: Charles Cavendish-Bentinck
+Gen: 6, Name: Richard Wellesley, 1st Marquess Wellesley
+Gen: 5, Name: Lady Charles Bentinck
+Gen: 6, Name: Hyacinthe-Gabrielle Roland
+Gen: 3, Name: Cecilia Bowes-Lyon, Countess of Strathmore and Kinghorne
+Gen: 6, Name: None
+Gen: 5, Name: Edwyn Burnaby
+Gen: 6, Name: Mary Browne
+Gen: 4, Name: Louisa Cavendish-Bentinck
+Gen: 6, Name: Thomas Salisbury
+Gen: 5, Name: Anne Caroline Salisbury
+Gen: 6, Name: Frances Webb

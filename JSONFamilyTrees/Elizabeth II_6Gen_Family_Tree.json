@@ -1,0 +1,356 @@
+{
+  "father": {
+    "father": {
+      "father": {
+        "father": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Ernest I, Duke of Saxe-Coburg and Gotha",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Albert, Prince Consort",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Princess Louise of Saxe Gotha Altenburg",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        },
+        "person": "Edward VII",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Prince Edward, Duke of Kent and Strathearn",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Queen Victoria",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Princess Victoria of Saxe-Coburg-Saalfeld",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      },
+      "person": "George V",
+      "generation": 3,
+      "mother": {
+        "father": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Frederick William, Duke of Schleswig-Holstein-Sonderburg-Gl\u00fccksburg",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Christian IX of Denmark",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Princess Louise Caroline of Hesse-Kassel",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        },
+        "person": "Alexandra of Denmark",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Prince William of Hesse-Kassel",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Louise of Hesse-Kassel",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Princess Charlotte of Denmark",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      }
+    },
+    "person": "George VI",
+    "generation": 2,
+    "mother": {
+      "father": {
+        "father": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Duke Louis of W\u00fcrttemberg",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Duke Alexander of W\u00fcrttemberg",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": null,
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        },
+        "person": "Francis, Duke of Teck",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Count Ladislas Rh\u00e9dey von Kis-Rh\u00e9de",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Countess Claudine Rh\u00e9dey von Kis-Rh\u00e9de",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Agnes Baronin von Inczedy de Nagy-Varad",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      },
+      "person": "Mary of Teck",
+      "generation": 3,
+      "mother": {
+        "father": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "George III",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Prince Adolphus, Duke of Cambridge",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Charlotte of Mecklenburg-Strelitz",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        },
+        "person": "Princess Mary Adelaide of Cambridge",
+        "generation": 4,
+        "mother": {
+          "father": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Prince Frederick of Hesse-Kassel",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          },
+          "person": "Princess Augusta of Hesse-Kassel",
+          "generation": 5,
+          "mother": {
+            "father": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            },
+            "person": "Princess Caroline of Nassau-Usingen",
+            "generation": 6,
+            "mother": {
+              "father": "None",
+              "person": "None",
+              "generation": "None",
+              "mother": "None"
+            }
+          }
+        }
+      }
+    }
+  },
+  "person": "Elizabeth II",
+  "generation": 1,
+  "mother": {
+    "father": {
+      "father": {
+        "father": "None",
+        "person": "None",
+        "generation": "None",
+        "mother": "None"
+      },
+      "person": null,
+      "generation": 3,
+      "mother": {
+        "father": "None",
+        "person": "None",
+        "generation": "None",
+        "mother": "None"
+      }
+    },
+    "person": "Queen Elizabeth The Queen Mother",
+    "generation": 2,
+    "mother": {
+      "father": {
+        "father": "None",
+        "person": "None",
+        "generation": "None",
+        "mother": "None"
+      },
+      "person": null,
+      "generation": 3,
+      "mother": {
+        "father": "None",
+        "person": "None",
+        "generation": "None",
+        "mother": "None"
+      }
+    }
+  }
+}

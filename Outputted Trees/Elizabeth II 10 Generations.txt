@@ -1,0 +1,387 @@
+Gen: 10, Name: John Ernest IV, Duke of Saxe-Coburg-Saalfeld
+Gen: 9, Name: Francis Josias, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Countess Charlotte Johanna of Waldeck-Wildungen
+Gen: 8, Name: Ernest Frederick, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Louis Frederick I, Prince of Schwarzburg-Rudolstadt
+Gen: 9, Name: Princess Anna Sophie of Schwarzburg-Rudolstadt
+Gen: 10, Name: Anna Sophie of Saxe-Gotha-Altenburg
+Gen: 7, Name: Francis, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Ferdinand Albert I, Duke of Brunswick-Wolfenbüttel-Bevern
+Gen: 9, Name: Ferdinand Albert II, Duke of Brunswick-Wolfenbüttel
+Gen: 10, Name: Princess Christine of Hesse-Eschwege
+Gen: 8, Name: Princess Sophie Antoinette of Brunswick-Wolfenbüttel
+Gen: 10, Name: Louis Rudolph, Duke of Brunswick-Lüneburg
+Gen: 9, Name: Princess Antoinette of Brunswick-Wolfenbüttel
+Gen: 10, Name: Princess Christine Louise of Oettingen-Oettingen
+Gen: 6, Name: Ernest I, Duke of Saxe-Coburg and Gotha
+Gen: 10, Name: Heinrich X, Count of Reuss-Ebersdorf
+Gen: 9, Name: Heinrich XXIX, Count of Reuss-Ebersdorf
+Gen: 10, Name: None
+Gen: 8, Name: Heinrich XXIV, Count Reuss of Ebersdorf
+Gen: 10, Name: Wolfgang Dietrich of Castell-Remlingen
+Gen: 9, Name: Countess Sophie Theodora of Castell-Remlingen
+Gen: 10, Name: None
+Gen: 7, Name: Countess Augusta Reuss of Ebersdorf
+Gen: 10, Name: George Albert II, Count of Erbach-Fürstenau
+Gen: 9, Name: George August, Count of Erbach-Schönberg
+Gen: 10, Name: Anna Dorotea de Hohenlohe-Waldenburg
+Gen: 8, Name: Countess Karoline Ernestine of Erbach-Schönberg
+Gen: 10, Name: None
+Gen: 9, Name: Ferdinande Henriette, Countess of Stolberg-Gedern
+Gen: 10, Name: Christine of Mecklenburg-Güstrow
+Gen: 5, Name: Albert, Prince Consort
+Gen: 10, Name: Frederick II, Duke of Saxe-Gotha-Altenburg
+Gen: 9, Name: Frederick III, Duke of Saxe-Gotha-Altenburg
+Gen: 10, Name: Princess Magdalena Augusta of Anhalt-Zerbst
+Gen: 8, Name: Ernest II, Duke of Saxe-Gotha-Altenburg
+Gen: 10, Name: Ernst Ludwig I, Duke of Saxe-Meiningen
+Gen: 9, Name: Princess Luise Dorothea of Saxe-Meiningen
+Gen: 10, Name: Dorothea Marie of Saxe-Gotha-Altenburg
+Gen: 7, Name: Augustus, Duke of Saxe-Gotha-Altenburg
+Gen: 9, Name: None
+Gen: 8, Name: Princess Charlotte of Saxe-Meiningen
+Gen: 9, Name: None
+Gen: 6, Name: Princess Louise of Saxe Gotha Altenburg
+Gen: 10, Name: Christian Ludwig II, Duke of Mecklenburg-Schwerin
+Gen: 9, Name: Duke Louis of Mecklenburg-Schwerin
+Gen: 10, Name: Duchess Gustave Caroline of Mecklenburg-Strelitz
+Gen: 8, Name: Frederick Francis I, Grand Duke of Mecklenburg-Schwerin
+Gen: 9, Name: None
+Gen: 7, Name: Duchess Louise Charlotte of Mecklenburg-Schwerin
+Gen: 10, Name: Ernest II, Duke of Saxe-Gotha-Altenburg
+Gen: 9, Name: Augustus, Duke of Saxe-Gotha-Altenburg
+Gen: 10, Name: Princess Charlotte of Saxe-Meiningen
+Gen: 8, Name: Princess Louise of Saxe-Gotha-Altenburg
+Gen: 10, Name: Frederick Francis I, Grand Duke of Mecklenburg-Schwerin
+Gen: 9, Name: Duchess Louise Charlotte of Mecklenburg-Schwerin
+Gen: 10, Name: Princess Louise of Saxe-Gotha-Altenburg
+Gen: 4, Name: Edward VII
+Gen: 9, Name: None
+Gen: 8, Name: Frederick, Prince of Wales
+Gen: 10, Name: John Frederick, Margrave of Brandenburg-Ansbach
+Gen: 9, Name: Caroline of Ansbach
+Gen: 10, Name: Princess Eleonore Erdmuthe of Saxe-Eisenach
+Gen: 7, Name: George III
+Gen: 10, Name: Frederick I, Duke of Saxe-Gotha-Altenburg
+Gen: 9, Name: Frederick II, Duke of Saxe-Gotha-Altenburg
+Gen: 10, Name: Magdalena Sibylla of Saxe-Weissenfels
+Gen: 8, Name: Princess Augusta of Saxe-Gotha
+Gen: 10, Name: Charles, Prince of Anhalt-Zerbst
+Gen: 9, Name: Princess Magdalena Augusta of Anhalt-Zerbst
+Gen: 10, Name: Sophia of Saxe-Weissenfels, Princess of Anhalt-Zerbst
+Gen: 6, Name: Prince Edward, Duke of Kent and Strathearn
+Gen: 10, Name: Adolphus Frederick I, Duke of Mecklenburg-Schwerin
+Gen: 9, Name: Adolphus Frederick II, Duke of Mecklenburg-Strelitz
+Gen: 10, Name: Marie-Catherine de Brunswick-Dannenberg
+Gen: 8, Name: Duke Charles Louis Frederick of Mecklenburg
+Gen: 9, Name: None
+Gen: 7, Name: Charlotte of Mecklenburg-Strelitz
+Gen: 10, Name: Ernest, Duke of Saxe-Hildburghausen
+Gen: 9, Name: Ernest Frederick I, Duke of Saxe-Hildburghausen
+Gen: 10, Name: Countess Sophie Henriette of Waldeck
+Gen: 8, Name: Princess Elisabeth Albertine of Saxe-Hildburghausen
+Gen: 10, Name: George Louis I, Count of Erbach-Erbach
+Gen: 9, Name: Countess Sophia Albertine of Erbach-Erbach
+Gen: 10, Name: Countess Amalia Katharina of Waldeck
+Gen: 5, Name: Queen Victoria
+Gen: 10, Name: John Ernest IV, Duke of Saxe-Coburg-Saalfeld
+Gen: 9, Name: Francis Josias, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Countess Charlotte Johanna of Waldeck-Wildungen
+Gen: 8, Name: Ernest Frederick, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Louis Frederick I, Prince of Schwarzburg-Rudolstadt
+Gen: 9, Name: Princess Anna Sophie of Schwarzburg-Rudolstadt
+Gen: 10, Name: Anna Sophie of Saxe-Gotha-Altenburg
+Gen: 7, Name: Francis, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Ferdinand Albert I, Duke of Brunswick-Wolfenbüttel-Bevern
+Gen: 9, Name: Ferdinand Albert II, Duke of Brunswick-Wolfenbüttel
+Gen: 10, Name: Princess Christine of Hesse-Eschwege
+Gen: 8, Name: Princess Sophie Antoinette of Brunswick-Wolfenbüttel
+Gen: 10, Name: Louis Rudolph, Duke of Brunswick-Lüneburg
+Gen: 9, Name: Princess Antoinette of Brunswick-Wolfenbüttel
+Gen: 10, Name: Princess Christine Louise of Oettingen-Oettingen
+Gen: 6, Name: Princess Victoria of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Heinrich X, Count of Reuss-Ebersdorf
+Gen: 9, Name: Heinrich XXIX, Count of Reuss-Ebersdorf
+Gen: 10, Name: None
+Gen: 8, Name: Heinrich XXIV, Count Reuss of Ebersdorf
+Gen: 10, Name: Wolfgang Dietrich of Castell-Remlingen
+Gen: 9, Name: Countess Sophie Theodora of Castell-Remlingen
+Gen: 10, Name: None
+Gen: 7, Name: Countess Augusta Reuss of Ebersdorf
+Gen: 10, Name: George Albert II, Count of Erbach-Fürstenau
+Gen: 9, Name: George August, Count of Erbach-Schönberg
+Gen: 10, Name: Anna Dorotea de Hohenlohe-Waldenburg
+Gen: 8, Name: Countess Karoline Ernestine of Erbach-Schönberg
+Gen: 10, Name: None
+Gen: 9, Name: Ferdinande Henriette, Countess of Stolberg-Gedern
+Gen: 10, Name: Christine of Mecklenburg-Güstrow
+Gen: 3, Name: George V
+Gen: 10, Name: Frederick Louis, Duke of Beck
+Gen: 9, Name: Peter August, Duke of Schleswig-Holstein-Sonderburg-Beck
+Gen: 10, Name: Louise Charlotte of Schleswig-Holstein-Sonderburg-Augustenburg
+Gen: 8, Name: Prince Karl Anton August of Schleswig-Holstein-Sonderburg-Beck
+Gen: 10, Name: None
+Gen: 9, Name: Princess Sophie of Hesse-Philippsthal
+Gen: 10, Name: None
+Gen: 7, Name: Frederick Charles Louis, Duke of Schleswig-Holstein-Sonderburg-Beck
+Gen: 10, Name: None
+Gen: 9, Name: Albert Cristòfol de Dohna-Leistenau
+Gen: 10, Name: None
+Gen: 8, Name: Countess Charlotte of Dohna-Leistenau
+Gen: 10, Name: Frederick Louis, Duke of Beck
+Gen: 9, Name: Sophie de Schleswig-Holstein-Sonderbourg-Beck
+Gen: 10, Name: None
+Gen: 6, Name: Frederick William, Duke of Schleswig-Holstein-Sonderburg-Glücksburg
+Gen: 9, Name: None
+Gen: 8, Name: Count Karl Leopold von Schlieben
+Gen: 10, Name: Albrecht Christoph, Graf Finck von Finckenstein
+Gen: 9, Name: Countess Katharina Dorothea Finck of Finckenstein
+Gen: 10, Name: Arnolda Charlotte, Freiin von Creytzen
+Gen: 7, Name: Countess Friederike von Schlieben
+Gen: 8, Name: None
+Gen: 5, Name: Christian IX of Denmark
+Gen: 10, Name: Charles I, Landgrave of Hesse-Kassel
+Gen: 9, Name: William VIII, Landgrave of Hesse-Kassel
+Gen: 10, Name: Maria Amalia of Courland
+Gen: 8, Name: Frederick II, Landgrave of Hesse-Kassel
+Gen: 10, Name: Moritz Wilhelm, Duke of Saxe-Zeitz
+Gen: 9, Name: Dorothea Wilhelmine of Saxe-Zeitz
+Gen: 10, Name: Marie Amalie of Brandenburg
+Gen: 7, Name: Prince Charles of Hesse-Kassel
+Gen: 10, Name: Edward VII
+Gen: 9, Name: George V
+Gen: 10, Name: Alexandra of Denmark
+Gen: 8, Name: Princess Mary of Great Britain
+Gen: 10, Name: Francis, Duke of Teck
+Gen: 9, Name: Mary of Teck
+Gen: 10, Name: Princess Mary Adelaide of Cambridge
+Gen: 6, Name: Princess Louise Caroline of Hesse-Kassel
+Gen: 10, Name: Frederick William, Duke of Schleswig-Holstein-Sonderburg-Glücksburg
+Gen: 9, Name: Christian IX of Denmark
+Gen: 10, Name: Princess Louise Caroline of Hesse-Kassel
+Gen: 8, Name: Frederick VIII of Denmark
+Gen: 10, Name: Prince William of Hesse-Kassel
+Gen: 9, Name: Louise of Hesse-Kassel
+Gen: 10, Name: Princess Charlotte of Denmark
+Gen: 7, Name: Princess Louise of Denmark
+Gen: 10, Name: Prince Louis of Battenberg
+Gen: 9, Name: Prince Louis of Battenberg
+Gen: 10, Name: Julia, Princess of Battenberg
+Gen: 8, Name: Louise of Sweden
+Gen: 10, Name: Prince Frederick of the Netherlands
+Gen: 9, Name: Louise of the Netherlands
+Gen: 10, Name: Princess Louise of Prussia
+Gen: 4, Name: Alexandra of Denmark
+Gen: 10, Name: Charles I, Landgrave of Hesse-Kassel
+Gen: 9, Name: William VIII, Landgrave of Hesse-Kassel
+Gen: 10, Name: Maria Amalia of Courland
+Gen: 8, Name: Frederick II, Landgrave of Hesse-Kassel
+Gen: 10, Name: Moritz Wilhelm, Duke of Saxe-Zeitz
+Gen: 9, Name: Dorothea Wilhelmine of Saxe-Zeitz
+Gen: 10, Name: Marie Amalie of Brandenburg
+Gen: 7, Name: Prince Frederick of Hesse-Kassel
+Gen: 10, Name: Edward VII
+Gen: 9, Name: George V
+Gen: 10, Name: Alexandra of Denmark
+Gen: 8, Name: Princess Mary of Great Britain
+Gen: 10, Name: Francis, Duke of Teck
+Gen: 9, Name: Mary of Teck
+Gen: 10, Name: Princess Mary Adelaide of Cambridge
+Gen: 6, Name: Prince William of Hesse-Kassel
+Gen: 10, Name: William Henry, Prince of Nassau-Usingen
+Gen: 9, Name: Charles, Prince of Nassau-Usingen
+Gen: 10, Name: Princess Charlotte Amalie of Nassau-Dillenburg
+Gen: 8, Name: Charles William, Prince of Nassau-Usingen
+Gen: 9, Name: None
+Gen: 7, Name: Princess Caroline of Nassau-Usingen
+Gen: 10, Name: Johann, Count of Leiningen-Dagsburg-Falkenburg
+Gen: 9, Name: Christian Karl Reinhard of Leiningen-Dagsburg-Falkenburg
+Gen: 10, Name: Countess Johanna Magdalene of Hanau-Lichtenberg
+Gen: 8, Name: Countess Caroline Felizitas of Leiningen-Dagsburg
+Gen: 10, Name: Ludwig zu Solms-Rödelheim-Rödelheim
+Gen: 9, Name: Katharina Polyxena von Solms-Rödelheim
+Gen: 10, Name: Charlotte Sibylle von Ahlefeldt-Rixingen
+Gen: 5, Name: Louise of Hesse-Kassel
+Gen: 7, Name: None
+Gen: 6, Name: Princess Charlotte of Denmark
+Gen: 10, Name: Frederick, Duke of Mecklenburg-Grabow
+Gen: 9, Name: Christian Ludwig II, Duke of Mecklenburg-Schwerin
+Gen: 10, Name: Christine Wilhelmine of Hesse-Homburg
+Gen: 8, Name: Duke Louis of Mecklenburg-Schwerin
+Gen: 10, Name: Adolphus Frederick II, Duke of Mecklenburg-Strelitz
+Gen: 9, Name: Duchess Gustave Caroline of Mecklenburg-Strelitz
+Gen: 10, Name: Princess Maria of Mecklenburg
+Gen: 7, Name: Duchess Sophia Frederica of Mecklenburg-Schwerin
+Gen: 10, Name: John Ernest IV, Duke of Saxe-Coburg-Saalfeld
+Gen: 9, Name: Francis Josias, Duke of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Countess Charlotte Johanna of Waldeck-Wildungen
+Gen: 8, Name: Princess Charlotte Sophie of Saxe-Coburg-Saalfeld
+Gen: 10, Name: Louis Frederick I, Prince of Schwarzburg-Rudolstadt
+Gen: 9, Name: Princess Anna Sophie of Schwarzburg-Rudolstadt
+Gen: 10, Name: Anna Sophie of Saxe-Gotha-Altenburg
+Gen: 2, Name: George VI
+Gen: 10, Name: Eberhard III, Duke of Württemberg
+Gen: 9, Name: Frederick Charles, Duke of Württemberg-Winnental
+Gen: 10, Name: Anna Katharina Dorothea of Salm-Kyrburg
+Gen: 8, Name: Charles Alexander, Duke of Württemberg
+Gen: 10, Name: Albert II, Margrave of Brandenburg-Ansbach
+Gen: 9, Name: Princess Eleonore Juliane of Brandenburg-Ansbach
+Gen: 10, Name: Sophie Margarete of Oettingen-Oettingen
+Gen: 7, Name: Frederick II Eugene, Duke of Württemberg
+Gen: 10, Name: Eugen Alexander Franz, 1st Prince of Thurn and Taxis
+Gen: 9, Name: Anselm Franz, 2nd Prince of Thurn and Taxis
+Gen: 10, Name: Anna Adelaida de Fürstenberg-Heiligenberg
+Gen: 8, Name: Princess Marie Auguste of Thurn and Taxis
+Gen: 10, Name: Ferdinand August of Lobkowicz
+Gen: 9, Name: Maria Ludovika Anna of Lobkowicz
+Gen: 10, Name: None
+Gen: 6, Name: Duke Louis of Württemberg
+Gen: 10, Name: Frederick William, Elector of Brandenburg
+Gen: 9, Name: Philip William, Margrave of Brandenburg-Schwedt
+Gen: 10, Name: Princess Dorothea Sophie of Schleswig-Holstein-Sonderburg-Glücksburg
+Gen: 8, Name: Frederick William, Margrave of Brandenburg-Schwedt
+Gen: 10, Name: John George II, Prince of Anhalt-Dessau
+Gen: 9, Name: Princess Johanna Charlotte of Anhalt-Dessau
+Gen: 10, Name: Countess Henriette Catherine of Nassau
+Gen: 7, Name: Princess Friederike of Brandenburg-Schwedt
+Gen: 10, Name: Frederick I of Prussia
+Gen: 9, Name: Frederick William I of Prussia
+Gen: 10, Name: Sophia Charlotte of Hanover
+Gen: 8, Name: Princess Sophia Dorothea of Prussia
+Gen: 10, Name: George I of Great Britain
+Gen: 9, Name: Sophia Dorothea of Hanover
+Gen: 10, Name: Sophia Dorothea of Celle
+Gen: 5, Name: Duke Alexander of Württemberg
+Gen: 10, Name: Frederick, Count of Nassau-Weilburg
+Gen: 9, Name: John Ernst, Count of Nassau-Weilburg
+Gen: 10, Name: None
+Gen: 8, Name: Charles August, Prince of Nassau-Weilburg
+Gen: 10, Name: Frederic Enric de Leiningen-Dagsburg-Hartenburg
+Gen: 9, Name: Maria Polyxena de Leiningen-Dagsburg-Hartenburg
+Gen: 10, Name: None
+Gen: 7, Name: Charles Christian, Prince of Nassau-Weilburg
+Gen: 8, Name: None
+Gen: 6, Name: Princess Henriette of Nassau-Weilburg
+Gen: 7, Name: None
+Gen: 4, Name: Francis, Duke of Teck
+Gen: 7, Name: None
+Gen: 6, Name: Count Ladislas Rhédey von Kis-Rhéde
+Gen: 7, Name: None
+Gen: 5, Name: Countess Claudine Rhédey von Kis-Rhéde
+Gen: 7, Name: None
+Gen: 6, Name: Agnes Baronin von Inczedy de Nagy-Varad
+Gen: 7, Name: None
+Gen: 3, Name: Mary of Teck
+Gen: 8, Name: None
+Gen: 7, Name: Frederick, Prince of Wales
+Gen: 10, Name: Albert II, Margrave of Brandenburg-Ansbach
+Gen: 9, Name: John Frederick, Margrave of Brandenburg-Ansbach
+Gen: 10, Name: Sophie Margarete of Oettingen-Oettingen
+Gen: 8, Name: Caroline of Ansbach
+Gen: 10, Name: John George I, Duke of Saxe-Eisenach
+Gen: 9, Name: Princess Eleonore Erdmuthe of Saxe-Eisenach
+Gen: 10, Name: Johannetta of Sayn-Wittgenstein
+Gen: 6, Name: George III
+Gen: 10, Name: Ernest I, Duke of Saxe-Gotha
+Gen: 9, Name: Frederick I, Duke of Saxe-Gotha-Altenburg
+Gen: 10, Name: Princess Elisabeth Sophie of Saxe-Altenburg
+Gen: 8, Name: Frederick II, Duke of Saxe-Gotha-Altenburg
+Gen: 10, Name: Augustus, Duke of Saxe-Weissenfels
+Gen: 9, Name: Magdalena Sibylla of Saxe-Weissenfels
+Gen: 10, Name: None
+Gen: 7, Name: Princess Augusta of Saxe-Gotha
+Gen: 10, Name: John VI, Prince of Anhalt-Zerbst
+Gen: 9, Name: Charles, Prince of Anhalt-Zerbst
+Gen: 10, Name: Sophie Augusta of Holstein-Gottorp
+Gen: 8, Name: Princess Magdalena Augusta of Anhalt-Zerbst
+Gen: 10, Name: Augustus, Duke of Saxe-Weissenfels
+Gen: 9, Name: Sophia of Saxe-Weissenfels, Princess of Anhalt-Zerbst
+Gen: 10, Name: Anna Maria of Mecklenburg-Schwerin
+Gen: 5, Name: Prince Adolphus, Duke of Cambridge
+Gen: 10, Name: None
+Gen: 9, Name: Adolphus Frederick I, Duke of Mecklenburg-Schwerin
+Gen: 10, Name: None
+Gen: 8, Name: Adolphus Frederick II, Duke of Mecklenburg-Strelitz
+Gen: 10, Name: Julius Ernst, Duke of Brunswick-Dannenberg
+Gen: 9, Name: Marie-Catherine de Brunswick-Dannenberg
+Gen: 10, Name: None
+Gen: 7, Name: Duke Charles Louis Frederick of Mecklenburg
+Gen: 8, Name: None
+Gen: 6, Name: Charlotte of Mecklenburg-Strelitz
+Gen: 10, Name: Ernest I, Duke of Saxe-Gotha
+Gen: 9, Name: Ernest, Duke of Saxe-Hildburghausen
+Gen: 10, Name: None
+Gen: 8, Name: Ernest Frederick I, Duke of Saxe-Hildburghausen
+Gen: 10, Name: Prince Georg Friedrich of Waldeck
+Gen: 9, Name: Countess Sophie Henriette of Waldeck
+Gen: 10, Name: Elisabet Carlota de Nassau-Siegen
+Gen: 7, Name: Princess Elisabeth Albertine of Saxe-Hildburghausen
+Gen: 10, Name: George Albert I, Count of Erbach-Schönberg
+Gen: 9, Name: George Louis I, Count of Erbach-Erbach
+Gen: 10, Name: None
+Gen: 8, Name: Countess Sophia Albertine of Erbach-Erbach
+Gen: 10, Name: None
+Gen: 9, Name: Countess Amalia Katharina of Waldeck
+Gen: 10, Name: Marie Magdalene von Nassau-Siegen
+Gen: 4, Name: Princess Mary Adelaide of Cambridge
+Gen: 10, Name: William VI, Landgrave of Hesse-Kassel
+Gen: 9, Name: Charles I, Landgrave of Hesse-Kassel
+Gen: 10, Name: Princess Hedwig Sophie of Brandenburg
+Gen: 8, Name: William VIII, Landgrave of Hesse-Kassel
+Gen: 10, Name: Jacob Kettler
+Gen: 9, Name: Maria Amalia of Courland
+Gen: 10, Name: Princess Louise Charlotte of Brandenburg
+Gen: 7, Name: Frederick II, Landgrave of Hesse-Kassel
+Gen: 10, Name: Maurice, Duke of Saxe-Zeitz
+Gen: 9, Name: Moritz Wilhelm, Duke of Saxe-Zeitz
+Gen: 10, Name: Dorothea Maria of Saxe-Weimar, Duchess of Saxe-Zeitz
+Gen: 8, Name: Dorothea Wilhelmine of Saxe-Zeitz
+Gen: 10, Name: Frederick William, Elector of Brandenburg
+Gen: 9, Name: Marie Amalie of Brandenburg
+Gen: 10, Name: Princess Dorothea Sophie of Schleswig-Holstein-Sonderburg-Glücksburg
+Gen: 6, Name: Prince Frederick of Hesse-Kassel
+Gen: 10, Name: Albert, Prince Consort
+Gen: 9, Name: Edward VII
+Gen: 10, Name: Queen Victoria
+Gen: 8, Name: George V
+Gen: 10, Name: Christian IX of Denmark
+Gen: 9, Name: Alexandra of Denmark
+Gen: 10, Name: Louise of Hesse-Kassel
+Gen: 7, Name: Princess Mary of Great Britain
+Gen: 10, Name: Duke Alexander of Württemberg
+Gen: 9, Name: Francis, Duke of Teck
+Gen: 10, Name: Countess Claudine Rhédey von Kis-Rhéde
+Gen: 8, Name: Mary of Teck
+Gen: 10, Name: Prince Adolphus, Duke of Cambridge
+Gen: 9, Name: Princess Mary Adelaide of Cambridge
+Gen: 10, Name: Princess Augusta of Hesse-Kassel
+Gen: 5, Name: Princess Augusta of Hesse-Kassel
+Gen: 10, Name: Walrad, Prince of Nassau-Usingen
+Gen: 9, Name: William Henry, Prince of Nassau-Usingen
+Gen: 10, Name: None
+Gen: 8, Name: Charles, Prince of Nassau-Usingen
+Gen: 10, Name: Henry, Prince of Nassau-Dillenburg
+Gen: 9, Name: Princess Charlotte Amalie of Nassau-Dillenburg
+Gen: 10, Name: None
+Gen: 7, Name: Charles William, Prince of Nassau-Usingen
+Gen: 8, Name: None
+Gen: 6, Name: Princess Caroline of Nassau-Usingen
+Gen: 10, Name: Georg Wilhelm von Leiningen-Dachsburg-Falkenburg
+Gen: 9, Name: Johann, Count of Leiningen-Dagsburg-Falkenburg
+Gen: 10, Name: Anne-Élisabeth von Daun-Falkenstein
+Gen: 8, Name: Christian Karl Reinhard of Leiningen-Dagsburg-Falkenburg
+Gen: 10, Name: Johann Reinhard II, Count of Hanau-Lichtenberg
+Gen: 9, Name: Countess Johanna Magdalene of Hanau-Lichtenberg
+Gen: 10, Name: Countess Palatine Anna Magdalena of Birkenfeld-Bischweiler
+Gen: 7, Name: Countess Caroline Felizitas of Leiningen-Dagsburg
+Gen: 10, Name: None
+Gen: 9, Name: Ludwig zu Solms-Rödelheim-Rödelheim
+Gen: 10, Name: None
+Gen: 8, Name: Katharina Polyxena von Solms-Rödelheim
+Gen: 10, Name: Frederik Ahlefeldt
+Gen: 9, Name: Charlotte Sibylle von Ahlefeldt-Rixingen
+Gen: 10, Name: None
+Gen: 1, Name: Elizabeth II
+Gen: 3, Name: None
+Gen: 2, Name: Queen Elizabeth The Queen Mother
+Gen: 3, Name: None
